@@ -1,0 +1,14 @@
+Host
+ec2-18-214-35-70.compute-1.amazonaws.com
+Database
+d1l3m9o3sun0lm
+User
+jvmpzarwylgscx
+Port
+5432
+Password
+388aa5dc9d02a87a2ab5ce4ee9f8e1f41e55428f7b5364be7695eb8ddc29ab6f
+URI
+postgres://jvmpzarwylgscx:388aa5dc9d02a87a2ab5ce4ee9f8e1f41e55428f7b5364be7695eb8ddc29ab6f@ec2-18-214-35-70.compute-1.amazonaws.com:5432/d1l3m9o3sun0lm
+Heroku CLI
+heroku pg:psql postgresql-reticulated-37224 --app hiringdb
