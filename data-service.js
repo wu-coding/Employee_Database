@@ -4,10 +4,10 @@ const Sequelize = require("sequelize");
 const dotenv = require('dotenv').config();
 
 const sequelize = new Sequelize({
-  database: "dsh5gttkrmm2o",
-  username: "plzecptiwpyywv",
-  password: process.env.DBPASS,
-  host: "ec2-18-214-35-70.compute-1.amazonaws.com",
+  database: "postgres",
+  username: "postgres",
+  password: DB_KEY,
+  host: "db.tjjtjfwjlpwmqycetmdr.supabase.co",
   port: 5432,
   dialect: "postgres",
   logging: console.log,
