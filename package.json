@@ -18,8 +18,8 @@
     "serverless-http": "^3.2.0"
   },
   "scripts": {
-    "build": "NODE_OPTIONS=--openssl-legacy-provider netlify-lambda build express",
-    "start": "node server-local.js"
+    "start": "node server-local.js",
+    "build": "NODE_ENV=production NODE_OPTIONS=--openssl-legacy-provider ./node_modules/.bin/netlify-lambda build ./"
   },
   "author": "Alex Wu",
   "license": "ISC",
