@@ -2,7 +2,9 @@
  <h1> Employee Database  <a href="https://employee-hire-tracker.herokuapp.com/"><img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg"    </h1>
  </div>
  <br>
- 
+<h1> Migration in progress</h1>
+  <pre> npm install && npm run start </pre>
+  
 <h1> Description </h1>
 <pre> Website frontend and backend implementation for an employee database.  </pre>
 
