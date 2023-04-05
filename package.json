@@ -20,6 +20,9 @@
     "sequelize": "^6.21.3",
     "serverless-http": "^3.2.0"
   },
+  "optionalDependencies": {
+    "fsevents": "2.3.2"
+  },
   "scripts": {
     "start": "node server-local.js"
   },
