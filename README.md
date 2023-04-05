@@ -1,5 +1,5 @@
  <div align="center"> 
- <h1> Employee Database  <a href="https://employee-hire-tracker.herokuapp.com/"><img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg"    alt="Website Status" style="width:120px;height:30px;"></a> </h1>
+ <h1> Employee Database  <a href="https://employee-hire-tracker.herokuapp.com/"><img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg"    </h1>
  </div>
  <br>
  
