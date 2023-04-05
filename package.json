@@ -1,5 +1,8 @@
 {
   "name": "web-a4",
+  "engines": {
+    "node": "19.8.1" 
+  },
   "version": "1.0.0",
   "main": "server.js",
   "dependencies": {
