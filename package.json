@@ -18,7 +18,7 @@
     "serverless-http": "^3.2.0"
   },
   "scripts": {
-    "build": "netlify-lambda build express",
+    "build": "NODE_OPTIONS=--openssl-legacy-provider netlify-lambda build express",
     "start": "node server-local.js"
   },
   "author": "Alex Wu",

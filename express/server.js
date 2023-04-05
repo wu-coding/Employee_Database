@@ -7,6 +7,7 @@ const path = require('path')
 const functionRoute = 'server'
 const basePath =  `/.netlify/functions/${functionRoute}/`
 
+
 app.use(basePath, router);
 
 module.exports.viewRoute = path.join(__dirname, '../' ,'views')
