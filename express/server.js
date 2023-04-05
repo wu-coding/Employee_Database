@@ -4,7 +4,7 @@ const serverless = require('serverless-http');
 const router = express.Router();
 const path = require('path')
 
-const functionRoute = 'express'
+const functionRoute = 'server'
 const basePath =  `/.netlify/functions/${functionRoute}/`
 
 app.use(basePath, router);
