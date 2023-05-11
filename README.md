@@ -1,10 +1,10 @@
  <div align="center"> 
- <h1> Employee Database  <a href="https://employee-hire-tracker.herokuapp.com/"><img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg"> <img src="https://img.shields.io/badge/-Fly.io-purple?&style=flat-square&logoWidth=40&logoHeight=40">    </h1>
+ <h1> Employee Database  <a href="https://employee-database.fly.dev/"><img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg"> <img src="https://img.shields.io/badge/-Fly.io-purple?&style=flat-square&logoWidth=40&logoHeight=40">    </h1>
  </div>
  <br>
   
-<h1> Migration in progress</h1>
-<pre> npm install && npm run start </pre>
+<h1> Website up and running</h1>
+<pre> https://employee-database.fly.dev/ </pre>
   
 <h1> Description </h1>
 <pre> Website frontend and backend implementation for an employee database.  </pre>
